@@ -91,7 +91,7 @@ cp .env.example .env
 ```env
 PORT=3000
 NODE_ENV=development
-GOOGLE_APPLICATION_CREDENTIALS=./serviceAccountKey.json
+GOOGLE_APPLICATION_CREDENTIALS=
 ```
 
 ### 4. Ejecutar
